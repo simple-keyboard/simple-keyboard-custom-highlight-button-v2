@@ -18,11 +18,7 @@ let keyboard = new Keyboard({
       "{shiftleft} Z X C V B N M < > ? {shiftright}",
       ".com @ {space}"
     ]
-  },
-  display: {
-    "{down}": "▼"
-  },
-  mergeDisplay: true
+  }
 });
 
 /**
